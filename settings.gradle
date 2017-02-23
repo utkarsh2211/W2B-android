@@ -1,0 +1,1 @@
+include ':app', ':android-networking', ':rx2-android-networking', ':rx-android-networking', ':jackson-android-networking', ':rx2sampleapp', ':rxsampleapp'
