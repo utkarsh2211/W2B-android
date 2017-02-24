@@ -23,24 +23,6 @@ import org.json.JSONObject;
 import java.io.File;
 import java.util.Calendar;
 
-/*class Obj_details extends AppCompatActivity
-{
-    String curr;
-    String title;
-    String text;
-    String link;
-    int amount;
-
-    Obj_details()
-    {
-        curr = null;
-        title = null;
-        text = null;
-        link = null;
-        amount = 0;
-    }
-}*/
-
 public class img_display extends AppCompatActivity {
     static final int CAM_REQUEST = 1;
     ImageView img;
